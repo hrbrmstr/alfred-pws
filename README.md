@@ -29,3 +29,6 @@ To build on your own version:
 * Change the `station` variable
 * If you want to see the station in wunderground after a selecting a reading, setup a URL action to open: http://www.wunderground.com/personal-weather-station/dashboard?ID={query}#history and connect the two objects
 * Review the screenshots in the github [img directory](https://github.com/hrbrmstr/alfred-pws/tree/master/img)
+
+
+Icon (in the compiled workflow and in the repository) from: https://github.com/Tinkerforge/weather-station
