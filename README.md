@@ -21,7 +21,7 @@ Alfred workflow to get Weather Underground PWS readings
 
 ### Installation
 
-It's probably easiest to install the [compiled workflow](https://github.com/hrbrmstr/alfred-pws/blob/master/pws.alfredworkflow?raw=true) and change the `station` variable in the main script filter.
+It's probably easiest to install the [compiled workflow](https://github.com/hrbrmstr/alfred-pws/blob/master/pws.alfredworkflow?raw=true) and change the `station` variable in the main script filter. You can also grab it over at [Packal](http://www.packal.org/workflow/pws-history).
 
 To build on your own version:
 
