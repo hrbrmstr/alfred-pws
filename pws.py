@@ -24,6 +24,8 @@
 #
 #   if user selects a reading
 #
+# Icon (in the compiled workflow) from: https://github.com/Tinkerforge/weather-station
+#
 
 import re
 import csv
