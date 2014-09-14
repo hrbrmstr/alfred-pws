@@ -5,7 +5,7 @@
 #
 # Alfred workflow to get Weather Underground PWS readings
 #
-# - Returns lat 5 readings (date/time, temp, barometer, humidity) in Alfred window
+# - Returns last 5 readings (date/time, temp, barometer, humidity) in Alfred window
 # - Enables copying of full current day's CSV to clipboard
 # - URL action goes to PWS readings page
 #
