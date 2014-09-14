@@ -17,7 +17,7 @@ Alfred workflow to get Weather Underground PWS readings
 ### Requires
 
 * alfred-workflow : https://github.com/deanishe/alfred-workflow (installed to workflow directory)
-* the requests library (installed to the workfllow "lib" subdirectory)
+* the [requests library](http://docs.python-requests.org/en/latest/) (installed to the workfllow "lib" subdirectory)
 
 ### Installation
 
